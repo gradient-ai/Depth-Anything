@@ -1,5 +1,7 @@
 <div align="center">
 <h2>Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data</h2>
+> **Getting Started:**
+> [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/Depth-Anything?machine=Free-GPU)
 
 [**Lihe Yang**](https://liheyoung.github.io/)<sup>1</sup> · [**Bingyi Kang**](https://bingykang.github.io/)<sup>2&dagger;</sup> · [**Zilong Huang**](http://speedinghzl.github.io/)<sup>2</sup> · [**Xiaogang Xu**](https://xiaogang00.github.io/)<sup>3,4</sup> · [**Jiashi Feng**](https://sites.google.com/site/jshfeng/)<sup>2</sup> · [**Hengshuang Zhao**](https://hszhao.github.io/)<sup>1*</sup>
 
