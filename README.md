@@ -15,7 +15,7 @@
 <a href='https://huggingface.co/spaces/LiheYoung/Depth-Anything'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
 <a href='https://huggingface.co/papers/2401.10891'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-yellow'></a>
 > **Getting Started:**
-> [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/APISR?machine=Free-GPU)
+> [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/Depth-Anything?machine=Free-GPU)
 </div>
 
 This work presents Depth Anything, a highly practical solution for robust monocular depth estimation by training on a combination of 1.5M labeled images and **62M+ unlabeled images**.
